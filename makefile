@@ -19,3 +19,8 @@ install-startlight-blog:
 
 run-build:
 	npm run build
+
+public:
+	git add .
+	git commit . -m ""
+	git push
