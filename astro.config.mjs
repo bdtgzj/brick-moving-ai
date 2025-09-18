@@ -6,6 +6,9 @@ import starlightBlog from 'starlight-blog';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://ai.bdtgzj.com',
+	markdown: {
+		smartypants: false,
+  	},
 	integrations: [
 		starlight({
 			plugins: [starlightBlog({
