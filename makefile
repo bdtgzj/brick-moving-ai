@@ -11,8 +11,14 @@ check-env:
 	@echo "$(PATH)"
 	node -v
 
+inst-deps:
+	npm install
+
 run-dev:
 	npm run dev
+
+visit:
+	curl -ivL http://localhost:4321/
 
 install-startlight-blog:
 	npm i starlight-blog
