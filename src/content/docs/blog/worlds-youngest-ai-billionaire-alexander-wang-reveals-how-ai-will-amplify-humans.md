@@ -3,7 +3,7 @@ title: 全球最年轻 AI 亿万富翁 Alexander Wang 揭示 AI 如何放大人�
 date: 2026-02-19
 description: 个人超级智能不是让你被动盯着屏幕，而是让你在生活中更主动、更专注地追求目标、深化人际关系。
 authors:
-  - name: Alexander
+  - name: Alexander Wang
     url: https://www.linkedin.com/in/alexandrwang/
 tags:
     - AI and Human
